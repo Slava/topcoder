@@ -1,0 +1,496 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"siz",
+				"size"
+			],
+			[
+				"ge",
+				"getMinimum"
+			],
+			[
+				"get",
+				"getMinimumTUPOI"
+			],
+			[
+				"size",
+				"sizeof"
+			],
+			[
+				"min",
+				"mincost_maxflow"
+			],
+			[
+				"diff",
+				"differentCount"
+			],
+			[
+				"string",
+				"stringDifferentChars"
+			],
+			[
+				"ba",
+				"badB"
+			],
+			[
+				"magicB",
+				"magicBond"
+			],
+			[
+				"magic",
+				"magicBonda"
+			],
+			[
+				"magicBo",
+				"magicBonda"
+			],
+			[
+				"magi",
+				"magicPowera"
+			],
+			[
+				"mag",
+				"magicPower"
+			],
+			[
+				"inter",
+				"intersectionE"
+			],
+			[
+				"Apple",
+				"AppleScript"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"se",
+				"search_content"
+			],
+			[
+				"conte",
+				"contents_link"
+			],
+			[
+				"json",
+				"jsoned_data"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"acc",
+				"access_token"
+			],
+			[
+				"reque",
+				"requests"
+			],
+			[
+				"loader",
+				"template_loader"
+			],
+			[
+				"fetchMi",
+				"fetchMime2"
+			],
+			[
+				"fswritesyn",
+				"fs.writeFileSync(path, data, encoding);"
+			],
+			[
+				"fs",
+				"fs.readFileSync(path, encoding);"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"build",
+				"Build: Cancel"
+			],
+			[
+				"run",
+				"Build: Run"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"pre",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"mark",
+				"Markdown Preview: open Markdown Cheat sheet"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"preview",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Nodejs::NPM::Install"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"github",
+				"GitHub: Open Gist in Editor"
+			],
+			[
+				"gith",
+				"GitHub: Open Gist in Editor"
+			],
+			[
+				"package inst",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"git add ",
+				"Git: Add Current File"
+			],
+			[
+				"git: add",
+				"Git: Add..."
+			],
+			[
+				"git: co",
+				"Git: Commit"
+			],
+			[
+				"git: ",
+				"Git: Init"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"stack",
+				"Stackoverflow: Search from Input"
+			],
+			[
+				"stackover ",
+				"Stackoverflow: Search from Input"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packages",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/imslavko/Dropbox/topcoder/MagicalGirlLevelOneDivOne.cpp",
+		"/Users/imslavko/topcoder/TheFrog.cpp",
+		"/Users/imslavko/Dropbox/source/maxflow_mincost_matching/mincost-maxflow-dijkstra.cpp",
+		"/Users/imslavko/Dropbox/topcoder/DirectionBoard.cpp",
+		"/Users/imslavko/Dropbox/topcoder/HouseBuilding.cpp",
+		"/Users/imslavko/Dropbox/topcoder/TheFrog.cpp",
+		"/Users/imslavko/Dropbox/topcoder/PasswordXGuessing.cpp",
+		"/Users/imslavko/Dropbox/topcoder/PasswordXGrid.cpp",
+		"/Users/imslavko/Dropbox/topcoder/MagicMolecule.cpp",
+		"/Users/imslavko/Dropbox/topcoder/FoxAndMp3.cpp",
+		"/Users/imslavko/Dropbox/topcoder/DoorsGame.cpp",
+		"/Users/imslavko/Dropbox/topcoder/TheJediTest.cpp",
+		"/Users/imslavko/Dropbox/topcoder/RobotHerb.cpp",
+		"/Users/imslavko/Dropbox/topcoder/TheDevice.cpp",
+		"/Users/imslavko/Dropbox/topcoder/BallsSeparating.cpp",
+		"/Users/imslavko/Dropbox/topcoder/LateProfessor.cpp",
+		"/Users/imslavko/Dropbox/topcoder/AimToTen.cpp",
+		"/Users/imslavko/Dropbox/topcoder/FallingCoconuts.cpp",
+		"/Users/imslavko/Dropbox/topcoder/PrisonCells.cpp",
+		"/Users/imslavko/Desktop/Kamila Tuyakbaeva.vcf",
+		"/Users/imslavko/work/Learn/HotkeysTestApp/Podfile",
+		"/Users/imslavko/work/Learn/Unsandboxed/Podfile",
+		"/Users/imslavko/work/Learn/HotkeysTestApp/Pods/Local Podspecs/DDHotKey.podspec",
+		"/Users/imslavko/work/Learn/Unsandboxed/Pods/Local Podspecs/XPCKit.podspec",
+		"/Users/imslavko/work/CollectionsMac/Podfile",
+		"/Users/imslavko/work/newblog/public/app.css",
+		"/Users/imslavko/work/getselection.applescript",
+		"/tmp/subl stdin d2sgNT.txt",
+		"/Users/imslavko/work/Learn/HotkeysTestApp/HotkeysTestApp/AppConnectors.plist",
+		"/Users/imslavko/Desktop/ApplicationConnectors.plist",
+		"/Users/imslavko/work/Learn/getselection.applescript",
+		"/Users/imslavko/work/Learn/HotkeysTestApp/Pod",
+		"/tmp/subl stdin BYM2Ja.txt",
+		"/Users/imslavko/Desktop/got SUV?.eml",
+		"/Users/imslavko/work/FileDownloadProxy/app.js",
+		"/Users/imslavko/work/newblog/views/about.ejs",
+		"/Users/imslavko/work/newblog/posts/2013-01-16-Python-development-environment.md",
+		"/Users/imslavko/Library/Application Support/Sublime Text 2/Packages/Markdown Preview/sample.md",
+		"/Users/imslavko/Dropbox/Public/pilav.txt",
+		"/Users/imslavko/Dropbox/Public/pilav.html",
+		"/Users/imslavko/work/newblog/views/layout.ejs",
+		"/Users/imslavko/work/newblog/lib/config.js",
+		"/Users/imslavko/work/newblog/lib/post.js",
+		"/Users/imslavko/work/newblog/server.js",
+		"/Users/imslavko/work/newblog/views/post.ejs",
+		"/Users/imslavko/work/newblog/views/index.ejs",
+		"/Users/imslavko/.bash_profile",
+		"/Users/imslavko/work/newblog/procfile",
+		"/Users/imslavko/.bashrc",
+		"/Users/imslavko/work/newblog/package.json",
+		"/Users/imslavko/work/newblog/posts/2013-01-13-hello-world.md",
+		"/Users/imslavko/work/newblog/README.md",
+		"/home/imslavko/work/parties/client/parties.css",
+		"/home/imslavko/work/parties/model.js",
+		"/home/imslavko/work/parties/client/client.js",
+		"/home/imslavko/work/parties/client/parties.html",
+		"/home/imslavko/work/parties/server/server.js",
+		"/home/imslavko/work/leaderboard/leaderboard.",
+		"/home/imslavko/work/gdrive-crawler/public/jade/layout.jade",
+		"/home/imslavko/work/gdrive-crawler/public/jade/index.jade",
+		"/home/imslavko/work/gdrive-crawler/public/jade/search_results.jade",
+		"/home/imslavko/work/gdrive-crawler/crawler.py",
+		"/home/imslavko/work/gdrive-crawler/public/jade/success.jade",
+		"/home/imslavko/work/gdrive-crawler/app.py",
+		"/home/imslavko/work/temp/app.py",
+		"/home/imslavko/work/gdrive-crawler/public/jade/done.jade",
+		"/home/imslavko/.virtualenvs/gdrive-crawler/lib/python2.7/site-packages/pyjade/runtime.py",
+		"/home/imslavko/.virtualenvs/gdrive-crawler/lib/python2.7/site-packages/pyjade/runtime.pyc",
+		"/home/imslavko/work/gdrive-crawler/public/css/style.css",
+		"/home/imslavko/work/gdrive-crawler/Procfile",
+		"/home/imslavko/.ipython/virtualenv.py",
+		"/home/imslavko/work/nodejs/test/app.js",
+		"/home/imslavko/work/CollectionsCore/indexer/crawler.py",
+		"/home/imslavko/work/CollectionsCore/provider_api/service_adapters/gdrive_service/client.py",
+		"/home/imslavko/work/CollectionsCore/provider_api/service_adapters/gdrive_service/__init__.py",
+		"/home/imslavko/work/nodejs/webserver/app.js",
+		"/home/imslavko/work/CollectionsCore/tests/file_downloader.py",
+		"/home/imslavko/work/CollectionsCore/admin.py",
+		"/home/imslavko/work/CollectionsCore/README.md",
+		"/home/imslavko/work/CollectionsCore/handlers.py",
+		"/home/imslavko/work/CollectionsCore/app.py",
+		"/home/imslavko/work/CollectionsCore/core.py",
+		"/home/imslavko/work/gdrive-crawler/test.jade",
+		"/home/imslavko/work/gdrive-crawler/public/index.html",
+		"/home/imslavko/work/EmailAttachments/node_modules/imap/lib/imap.js",
+		"/home/imslavko/work/EmailAttachments/node_modules/imap/lib/imap.",
+		"/home/imslavko/work/EmailAttachments/app.js",
+		"/home/imslavko/work/EmailAttachments/test.js",
+		"/home/imslavko/work/EmailAttachments/dotest.sh",
+		"/home/imslavko/work/EmailAttachments/package.json",
+		"/home/imslavko/work/EmailAttachments/test2.js",
+		"/home/imslavko/work/EmailAttachments/EmailClient.js",
+		"/home/imslavko/.config/sublime-text-2/Packages/User/GitHub.sublime-settings",
+		"/home/imslavko/.config/sublime-text-2/Packages/sublime-github/README.md",
+		"/home/imslavko/.config/sublime-text-2/Packages/Vintage/Preferences.sublime-settings",
+		"/home/imslavko/work/nodejs/fs/input.txt",
+		"/home/imslavko/work/nodejs/fs/output.txt",
+		"/home/imslavko/work/EmailAttachments/Procfile",
+		"/home/imslavko/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/imslavko/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"NSRequiredContext",
+			"command",
+			"Applescript",
+			"param",
+			"executeandreturnerror",
+			"applescript",
+			"selection",
+			"&",
+			"chrome",
+			"mate",
+			"&amp;",
+			"&quot;",
+			"rsvp",
+			"rsvp ",
+			"users",
+			"directory",
+			"parties",
+			"windows",
+			"assert",
+			"state.conn.on",
+			".close ",
+			"_reset",
+			"STATES",
+			".connect",
+			"connect",
+			"☐",
+			"buffer",
+			"set"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"&amp;",
+			"&",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 351.0
+	},
+	"output.git":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
